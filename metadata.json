@@ -1,0 +1,5 @@
+{
+  "name": "Intrufo - Jogo de Cartas Moçambicano",
+  "description": "Um jogo de cartas tradicional moçambicano jogado com um baralho reduzido de 24 cartas. Jogue, acumule pontos e vença a rodada!",
+  "requestFramePermissions": ["microphone"]
+}
